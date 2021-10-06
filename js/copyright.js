@@ -794,7 +794,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([[23], {
                                 },
                                 children: [Object(s.jsx)("a", {
                                     href: "https://sanchesto87.github.io/jiyun-sangjae",
-                                    children: ""
+                                    children: Object(s.jsx)("img", {src: "https://self.cryucompany.com/flower-8.png", style: {height: 30}})
                                 }), Object(s.jsx)("a", {
                                     href: "https://sanchesto87.github.io/jiyun-sangjae",
                                     style: {textDecoration: "none"},
